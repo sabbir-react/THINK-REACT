@@ -1,0 +1,13 @@
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    font-size: 10rem;
+}
+button{
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px;
+    background-color: chartreuse;
+}
